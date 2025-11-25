@@ -12,8 +12,8 @@ This project creates an automated parking gate system that:
 ##  Components Required
 
  Arduino Uno  -1 as a Microcontroller Board 
- HC-SR04 Ultrasonic Sensor -1 for Distance Measurement 
- SG90 Servo Motor -1 for Gate Mechanism 
+ Ultrasonic Sensor -1 for Distance Measurement 
+ Servo Motor -1 for Gate Mechanism 
  Jumper Wires 
  Breadboard -1
  USB Cable -1
